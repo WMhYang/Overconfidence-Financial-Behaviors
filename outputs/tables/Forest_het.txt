@@ -1,0 +1,14 @@
+	(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	Readiness	Readiness	Precaution	Precaution	Participation	Participation
+						
+overconfidence_forest	0.224***	-1.895***	0.313***	-1.986***	0.146***	-2.041***
+	(0.0216)	(0.263)	(0.0262)	(0.231)	(0.0177)	(0.258)
+						
+Observations	5,886	12,539	5,886	12,539	5,886	12,539
+Sample	Low Lit.	High Lit.	Low Lit.	High Lit.	Low Lit.	High Lit.
+Demo. chars.	Yes	Yes	Yes	Yes	Yes	Yes
+Year dummies	Yes	Yes	Yes	Yes	Yes	Yes
+State dummies	Yes	Yes	Yes	Yes	Yes	Yes
+Pseudo R-squared	0.127	0.171	0.106	0.137	0.182	0.112
+Standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						
